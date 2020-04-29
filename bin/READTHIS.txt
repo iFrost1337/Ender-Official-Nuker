@@ -1,0 +1,33 @@
+IF YOU ARE CURRENTLY READING THIS, THAT MEANS YOU ARE TRYING TO RUN THIS NUKER:
+
+=========================================================================================
+
+MUST HAVE VISUAL STUDIO CODE
+
+YOU NEED YOUR DISCORD TOKEN: https://www.youtube.com/watch?v=2Awn9hhgBa0
+
+YOU WILL NEED YOUR DISCORD USER ID: 1. ENABLE DEVELOPER MODE IN SETTINGS, APPEARANCE || 2. RIGHT CLICK YOUR USER AND CLICK COPY ID
+
+YOU WILL NEED NODE.JS: https://nodejs.org/en/download/
+
+AFTER THAT, OPEN THIS FOLDER IN VISUAL STUDIO CODE AND OPEN THE TERMINAL WITH CTRL + `
+
+TYPE:
+npm install discord.js, readline, cli-color, opn, fs
+
+=========================================================================================
+
+IN ENDER.JS, AT THE TOP, WHERE IT SAYS "TOKEN HERE" REMOVE THAT, AND PUT YOUR DISCORD TOKEN THERE
+
+AND CHECK EVERY FILE IN THE CMDS FOLDER, REMOVE "ID HERE" AND PUT YOUR DISCORD USER ID THERE
+
+=========================================================================================
+
+ONCE THAT IS COMPLETE, IN TERMINAL, TYPE:
+node ender.js
+
+=========================================================================================
+
+IF YOU HAVE SUCCESSFULLY DONE ALL OF THAT CORRECTLY, THE FILE SHOULD RUN AND YOU SHOULD BE READY TO NUKE!
+
+-iFrost
